@@ -1,0 +1,17 @@
+# Pliki systemowe macOS
+.DS_Store
+
+# Konfiguracja Ridera/IntelliJ
+.idea/
+
+# Pliki wynikowe kompilacji
+bin/
+obj/
+
+# Pliki tymczasowe i konfiguracyjne
+*.user
+*.suo
+
+# Foldery testów - jeśli nie chcesz ich w repozytorium
+Tutorial4Tests/bin/
+Tutorial4Tests/obj/
